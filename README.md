@@ -1,4 +1,3 @@
-Beyond Classification: Expert-Validated Explainable AI for Thermographic Detection and Hotspot Localization of Distal Forelimb Musculoskeletal Pathology in Horses
 Overview
 
 This repository contains the complete analytical workflow used in the study:
